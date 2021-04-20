@@ -1,0 +1,34 @@
+#to-do-pirkuma-list
+{
+text-align: center;
+background-color: aqua;
+border: black 4px solid;
+}
+
+#Tabulas
+{
+  margin: 100px ;
+  display:flex ;
+  justify-content: space-between;
+  align-content: center;
+  
+}
+
+#to-do
+{
+    height: 700px;
+    width: 300px;
+    border: black 4px solid;
+    text-align: center;
+    background-color: blanchedalmond ; 
+}
+
+
+#pirkuma-list
+{
+    height: 700px;
+    width: 300px;
+    border: black 4px solid;
+    text-align: center;
+    background-color: blanchedalmond ; 
+}
